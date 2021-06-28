@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Jean",
+      "email": "jean@gmail",
+      "document": "123",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "Ramos",
+      "email": "ramos@gmail",
+      "document": "456",
+      "password": "123"
+    },
+    {
+      "name": "Gigante",
+      "email": "gigante@gmail.com",
+      "document": "123",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "Giant",
+      "email": "giant@gmail.com",
+      "document": "123",
+      "password": "123",
+      "id": 4
+    }
+  ]
+}
